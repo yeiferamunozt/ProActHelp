@@ -1,0 +1,6 @@
+# Ignore obsidian artifacts
+.obsidian
+.trash
+# Ignore syncthing artifacts
+.stfolder
+.stversions
