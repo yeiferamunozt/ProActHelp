@@ -4,3 +4,5 @@
 # Ignore syncthing artifacts
 .stfolder
 .stversions
+# Ignore draw.io artifacts
+.$*bkp
