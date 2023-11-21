@@ -6,3 +6,4 @@
 .stversions
 # Ignore draw.io artifacts
 .$*bkp
+.$*dtmp
