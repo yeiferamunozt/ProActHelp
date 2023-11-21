@@ -63,7 +63,7 @@ Para conocer los aportes realizados y su estado actual.
 
 #### RQF-006
 Como Voluntario, Organización cooperante
-Quiero **descargar un certificado de aportes**
+Quiero **descargar certificado de aportes**
 Para tener un registro de los aportes realizados y poder utilizarlo como soporte para cualquier trámite.
 
 #### RQF-007
