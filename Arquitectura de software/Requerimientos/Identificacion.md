@@ -37,7 +37,7 @@ Estos requisitos proporcionan una base sólida para el diseño e implementación
 ## Gestión de Ayudas
 
 #### RQF-001
-Como Beneficiario, Organización base, Voluntario, Organización cooperante
+Como Usuario
 Quiero **consultar la información de registro de usuario**
 Para tener acceso a la información del registro de usuario y poder actualizarla en caso de ser necesario.
 
@@ -99,7 +99,7 @@ Quiero **gestionar los indicadores de impacto**
 Para tener un registro completo y actualizado de los indicadores que se utilizarán para medir el impacto de las ayudas humanitarias.
 
 #### RQF-013
-Como Administrador de territorio, Organización cooperante, Voluntario, Organización base
+Como Administrador de territorio, Voluntario
 Quiero **registrar informacion a los indicadores utilizando formularios**
 Para facilitar la recopilación y registro de información relacionada con los indicadores, tanto en el método ex-ante como en él ex-post y metas de acuerdo al tipo de indicador (cuantitativo y cualitativo)
 
@@ -119,19 +119,19 @@ Quiero **gestionar prescripciones y recomendaciones**
 Para tener un control sobre las prescripciones ajustadas a cada diagnóstico y poder realizar un seguimiento a las recomendaciones.
 
 #### RQF-017
-Como Administrador de territorio, Organización cooperante, Organización base
+Como Administrador de territorio, Organización cooperante
 Quiero **consultar historias de beneficiarios**
 Para contar con un registro detallado sobre cada beneficiario, que incluya información personal, así como contexto ambiental, emocional, social y económico. 
 
 ## Interoperabilidad
 
 #### RQF-018
-Como Administrador de territorio, Organización cooperante, Organización base
+Como Administrador de territorio, Organización cooperante
 Quiero **gestionar proyectos**
 Para planificar y coordinar las actividades necesarias para la entrega de ayuda humanitaria, incluyendo la asignación de responsables y el seguimiento de los tiempos de ejecución.
 
 #### RQF-019
-Como Administrador de territorio, Organización cooperante, Organización base
+Como Administrador de territorio, Organización cooperante
 Quiero **gestionar tareas dentro de cada proyecto**
 Para desglosar las actividades en acciones más pequeñas y medir su progreso individualmente.
 
@@ -141,12 +141,12 @@ Quiereo **visualizar proyectos y tareas con diferentes vistas**
 Para tener una visión general de los proyectos y tareas, así como de su estado actual es necesario contar con diferentes vistas (gannt, tablero kanban, lista, calendario) que permitan filtrar y ordenar la información de acuerdo a las necesidades de cada usuario.
 
 #### RQF-021
-Como Administrador de territorio, Organización cooperante, Organización base
+Como Administrador de territorio, Organización cooperante
 Quiero **asignar responsables a cada tarea**
 Para asegurar que haya una persona responsable designada para llevar a cabo cada actividad dentro del proyecto.
 
 #### RQF-022
-Como Administrador de territorio, Organización cooperante, Organización base
+Como Administrador de territorio, Organización cooperante, Voluntario
 Quiero **medir los tiempos de ejecución de las tareas realizadas**
 Para tener un registro preciso del tiempo que toma completar cada actividad y así identificar posibles retrasos o ineficiencias en el proceso logístico, además de poder realizar una mejor estimación y valoración de los recursos necesarios para la ejecución de cada proyecto.
 
@@ -156,7 +156,7 @@ Quiero **consultar información sobre los proyectos**
 Para conocer el estado actual de los proyectos logísticos humanitarios y poder colaborar en su ejecución.
 
 #### RQF-024
-Como Voluntario, Organización cooperante, Organización base
+Como Administrador de territorio, Voluntario, Organización cooperante, Organización base
 Quiero **gestionar tareas o apoyar en su ejecución**
 Para tener un registro de las tareas que he realizado y su estado actual.
 
