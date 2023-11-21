@@ -34,7 +34,7 @@ Estos requisitos proporcionan una base sólida para el diseño e implementación
 
 # Requisitos Funcionales
 
-## Gestión de Ayudas
+## (MOD-001) Gestión de Ayudas
 
 #### RQF-001
 Como Usuario
@@ -91,7 +91,7 @@ Como Administrador de territorio
 Quiero **gestionar los diferentes aportes**
 Para llevar un control adecuado de los aportes de cada individuo u organización de acuerdo a su tipo (dinero, en especie o trabajo).
 
-## Medición de Impacto
+## (MOD-002) Medición de Impacto
 
 #### RQF-012
 Como Administrador de territorio
@@ -123,7 +123,7 @@ Como Administrador de territorio, Organización cooperante
 Quiero **consultar historias de beneficiarios**
 Para contar con un registro detallado sobre cada beneficiario, que incluya información personal, así como contexto ambiental, emocional, social y económico. 
 
-## Interoperabilidad
+## (MOD-003) Interoperabilidad
 
 #### RQF-018
 Como Administrador de territorio
@@ -160,7 +160,7 @@ Como Administrador de territorio, Voluntario, Organización cooperante, Organiza
 Quiero **gestionar tareas o apoyar en su ejecución**
 Para tener un registro de las tareas que he realizado y su estado actual.
 
-## Gestion del sistema
+## (MOD-004) Gestion del sistema
 
 #### RQF-025
 Como Administrador de territorio
