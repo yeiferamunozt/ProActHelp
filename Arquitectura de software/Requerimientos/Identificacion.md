@@ -5,22 +5,31 @@ Estos requisitos proporcionan una base sólida para el diseño e implementación
 
 # Actores
 
+#### ACT-001
 **Beneficiario:** Persona que requiere ayuda humanitaria, puede ser individuo o cabeza de familia, si pertenece a una familia los miebros de la familia tambien son beneficiarios y estaran vinculados entre si.
 
+#### ACT-002
 **Voluntario:** Persona que se ofrece para colaborar en la entrega de ayuda humanitaria, puede ser individuo o pertenecer a una organización.
 
+#### ACT-003
 **Organización cooperante:** Entidad que colabora en la entrega de ayuda humanitaria, puede ser una empresa, una fundación, una ONG, una entidad gubernamental.
 
+#### ACT-004
 **Organización de base:** Entidad que representa a un grupo de personas que requieren ayuda humanitaria, puede ser una asociación de vecinos, una asociación de comerciantes, una asociación de productores, una asociación de campesinos, puede convertirse en una organización cooperante.
 
+#### ACT-005
 **Administrador de territorio:** Persona encargada de gestionar la información del sistema, puede ser un líder comunitario o un líder de la fundación, requiere permisos para agregar, editar y eliminar información siempre y cuando no comprometa la integridad del sistema.
 
+#### ACT-006
 **Super Administrador:** Persona encargada de configurar el sistema en si, requiere conocimientos técnicos para realizar esta tarea, tiene acceso a todas las funcionalidades del sistema, incluyendo la gestión de usuarios y permisos.
 
+#### ACT-007
 **Semillero:** Grupo encargado del diseño, desarrollo y mantenimiento continuo del sistema tecnológico. Pueden incluir expertos en tecnologías de la información, personas con afinidad por la programación de la comunidad, estudiantes que deseen aportar a la comunidad.
 
+#### ACT-008
 **Usuario:** Todos los actores pueden ser usuarios del sistema, a los cuales se les asigna roles y permisos de acuerdo a sus responsabilidades dentro del proceso.
 
+#### ACT-009
 **Modelo analítico:** Proceso externo que se encarga de analizar la información del sistema y generar diagnósticos y predicciones sobre los beneficiarios.
 
 # Requisitos Funcionales
