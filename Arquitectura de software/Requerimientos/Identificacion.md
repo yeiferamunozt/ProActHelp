@@ -126,17 +126,17 @@ Para contar con un registro detallado sobre cada beneficiario, que incluya infor
 ## Interoperabilidad
 
 #### RQF-018
-Como Administrador de territorio, Organización cooperante
+Como Administrador de territorio
 Quiero **gestionar proyectos**
 Para planificar y coordinar las actividades necesarias para la entrega de ayuda humanitaria, incluyendo la asignación de responsables y el seguimiento de los tiempos de ejecución.
 
 #### RQF-019
-Como Administrador de territorio, Organización cooperante
+Como Organización cooperante
 Quiero **gestionar tareas dentro de cada proyecto**
 Para desglosar las actividades en acciones más pequeñas y medir su progreso individualmente.
 
 #### RQF-020
-Como Administrador de territorio, Organización cooperante, Organización base
+Como Organización cooperante, Organización base
 Quiereo **visualizar proyectos y tareas con diferentes vistas**
 Para tener una visión general de los proyectos y tareas, así como de su estado actual es necesario contar con diferentes vistas (gannt, tablero kanban, lista, calendario) que permitan filtrar y ordenar la información de acuerdo a las necesidades de cada usuario.
 
@@ -146,7 +146,7 @@ Quiero **asignar responsables a cada tarea**
 Para asegurar que haya una persona responsable designada para llevar a cabo cada actividad dentro del proyecto.
 
 #### RQF-022
-Como Administrador de territorio, Organización cooperante, Voluntario
+Como Voluntario
 Quiero **medir los tiempos de ejecución de las tareas realizadas**
 Para tener un registro preciso del tiempo que toma completar cada actividad y así identificar posibles retrasos o ineficiencias en el proceso logístico, además de poder realizar una mejor estimación y valoración de los recursos necesarios para la ejecución de cada proyecto.
 
