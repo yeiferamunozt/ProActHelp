@@ -27,28 +27,28 @@ Estos requisitos proporcionan una base sólida para el diseño e implementación
 ## Gestión de Ayudas
 
 Como Beneficiario, Organización base, Voluntario, Organización cooperante
-Quiero consultar la información de registro
-Para tener acceso a la información de mi registro y poder actualizarla en caso de ser necesario.
+Quiero consultar la información de registro de usuario
+Para tener acceso a la información del registro de usuario y poder actualizarla en caso de ser necesario.
 
 Como Beneficiario
 Quiero consultar la información de núcleo familiar
-Para tener acceso a la información de mi núcleo familiar y poder actualizarla en caso de ser necesario.
+Para tener acceso a la información del núcleo familiar y poder actualizarla en caso de ser necesario.
 
 Como Beneficiario
-Quiero consultar la información de mi organización base
-Para tener acceso a la información de mi organización base y poder actualizarla en caso de ser necesario.
+Quiero consultar la información de la organización base
+Para tener acceso a la información registrada de la organización base y de los miembros de la organización.
 
 Como Beneficiario, Organización base
 Quiero consultar información sobre las ayudas disponibles
-Para conocer las ayudas disponibles en mi territorio y solicitarlas en caso de necesitarlas.
+Para conocer las ayudas disponibles en el territorio y solicitarlas en caso de necesitarlas.
 
 Como Voluntario, Organización cooperante
-Quiero consultar información sobre mis aportes
-Para conocer los aportes que he realizado y su estado actual.
+Quiero consultar información sobre aportes
+Para conocer los aportes realizados y su estado actual.
 
 Como Voluntario, Organización cooperante
-Quiero descargar un certificado de mis aportes
-Para tener un registro de los aportes que he realizado y poder utilizarlo como soporte para cualquier trámite.
+Quiero descargar un certificado de aportes
+Para tener un registro de los aportes realizados y poder utilizarlo como soporte para cualquier trámite.
 
 Como Administrador de territorio
 Quiero gestionar la información de los territorios
@@ -123,7 +123,7 @@ Quiero consultar información sobre los proyectos
 Para conocer el estado actual de los proyectos logísticos humanitarios y poder colaborar en su ejecución.
 
 Como Voluntario, Organización cooperante, Organización base
-Quiero gestionar mis tareas o aportes
+Quiero gestionar tareas o apoyar en su ejecución
 Para tener un registro de las tareas que he realizado y su estado actual.
 
 ## Gestion del sistema
@@ -133,7 +133,7 @@ Quiero gestionar usuario para organizaciones, entidades e individuos
 Para fomentar la colaboración entre distintas entidades involucradas en la entrega de ayuda humanitaria, facilitando el intercambio fluido de datos e información relevante operando con la misma base de información.
 
 Como Administrador de territorio
-Quiero gestionar diferentes roles y permisos.
+Quiero gestionar diferentes roles y permisos
 Para garantizar que solo las personas autorizadas puedan acceder al sistema y realizar acciones específicas según sus responsabilidades dentro del proceso logístico.
 
 Como Administrador de territorio, Semillero
@@ -153,12 +153,12 @@ Quiero cerrar sesión en el sistema
 Para garantizar la seguridad de mi información y evitar accesos no autorizados.
 
 Como Usuario
-Quiero recuperar mi contraseña
+Quiero recuperar contraseña
 Para poder acceder al sistema en caso de olvidar mi contraseña.
 
 Como Usuario
-Quiero cambiar mi contraseña
-Para garantizar la seguridad de mi información y evitar accesos no autorizados.
+Quiero cambiar contraseña
+Para controlar la seguridad de mi usuario y evitar accesos no autorizados.
 
 Como Semillero
 Quiero consultar información mediante una API
@@ -172,8 +172,8 @@ Para poder acceder a la plataforma desde cualquier dispositivo o sistema operati
 Quiero usar el sistema sin depender de licencias de pago externas
 Para minimizar los costos asociados al uso y mantenimiento del sistema.
 
-Quiero recibir actualizaciones uniformes en todos los dispositivos
+Quiero actualizar el sistema de modo uniforme en todos los dispositivos
 Para asegurarme de tener siempre la última versión disponible sin importar desde qué dispositivo acceda al sistema.
 
-Necesito ejecuter el sistema en sin costo o de bajos costos de infraestructura
+Necesito ejecutar el sistema sin costo o de bajos costos de infraestructura
 Para garantizar la sostenibilidad financiera a largo plazo.
