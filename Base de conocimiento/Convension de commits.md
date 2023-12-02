@@ -28,3 +28,5 @@ Los tipos de commits se encuentran establecidos de acuerdo al ambito del mismo, 
 **Investigación:**
 [🔍] Documentación de la investigación realizada para el desarrollo del proyecto.
 
+**Configuración:**
+[🛠️] Cambios en la configuración del proyecto, dependencias, variables de entorno, etc.
