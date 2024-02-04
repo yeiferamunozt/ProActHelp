@@ -1,0 +1,1 @@
+Syncthing es una aplicación de sincronización de archivos peer-to-peer libre y de código abierto disponible para Windows, macOS, Linux, Android, Solaris, Darwin y BSD.1​ Puede sincronizar archivos entre dispositivos en una red local, o entre dispositivos remotos a través de Internet. La seguridad de los datos está integrada en el diseño del software.

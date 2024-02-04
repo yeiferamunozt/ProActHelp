@@ -18,7 +18,7 @@ Estos requisitos proporcionan una base sólida para el diseño e implementación
 **Organización de base:** Entidad formal o colectivo comunitario que representa a un grupo de personas que requieren ayuda humanitaria, puede ser una organización sin animo de lucro con un bajo nivel de formalización o una iniciativa colectiva de diferentes individuos no formalizada, pueden convertirsen en una organización cooperante.
 
 #### ACT-005
-**Administrador de territorio:** Persona encargada de gestionar la información del sistema, puede ser un individuo delegado por la organización de base o la organización cooperante, requiere permisos para agregar, editar y eliminar información siempre y cuando no comprometa la integridad del sistema.
+**Administrador de territorio:** Persona encargada de gestionar la información del sistema, puede ser un individuo delegado por la organización de base o la organización cooperante, requiere permisos para agregar, editar y eliminar información siempre y cuando no comprometa la integridad del sistema, dentro del lenguaje scrum se le conoce como product owner.
 
 #### ACT-006
 **Super Administrador:** Persona encargada de configurar el sistema en si, requiere conocimientos técnicos para realizar esta tarea, tiene acceso a todas las funcionalidades del sistema, incluyendo la gestión de usuarios y permisos.
@@ -38,13 +38,13 @@ Estos requisitos proporcionan una base sólida para el diseño e implementación
 
 #### RQF-001
 Como Usuario
-Quiero **consultar la información de registro de usuario**
+Quiero **gestionar la información de registro de usuario de acuerdo a permisos**
 Para tener acceso a la información del registro de usuario y poder actualizarla en caso de ser necesario.
 
 #### RQF-002
 Como Beneficiario
-Quiero **consultar la información de núcleo familiar**
-Para tener acceso a la información del núcleo familiar y poder actualizarla en caso de ser necesario.
+Quiero **gestionar la información del grupo familiar**
+Para tener acceso a la información del grupo familiar y poder actualizarla en caso de ser necesario.
 
 #### RQF-003
 Como Beneficiario
@@ -53,17 +53,17 @@ Para tener acceso a la información registrada de la organización base y de los
 
 #### RQF-004
 Como Beneficiario, Organización base
-Quiero **consultar información sobre las ayudas disponibles**
+Quiero **consultar información sobre las ayudas disponibles y asignadas**
 Para conocer las ayudas disponibles en el territorio y solicitarlas en caso de necesitarlas.
 
 #### RQF-005
 Como Voluntario, Organización cooperante
-Quiero **consultar información sobre aportes**
+Quiero **consultar información sobre aportes propios**
 Para conocer los aportes realizados y su estado actual.
 
 #### RQF-006
 Como Voluntario, Organización cooperante
-Quiero **descargar certificado de aportes**
+Quiero **descargar certificado de aportes propios**
 Para tener un registro de los aportes realizados y poder utilizarlo como soporte para cualquier trámite.
 
 #### RQF-007
@@ -88,7 +88,7 @@ Para tener un registro completo y actualizado tanto a nivel individual como grup
 
 #### RQF-011
 Como Administrador de territorio
-Quiero **gestionar los diferentes aportes**
+Quiero **gestionar los diferentes aportes de acuerdo a permisos**
 Para llevar un control adecuado de los aportes de cada individuo u organización de acuerdo a su tipo (dinero, en especie o trabajo).
 
 ## (MOD-002) Medición de Impacto
@@ -105,22 +105,22 @@ Para facilitar la recopilación y registro de información relacionada con los i
 
 #### RQF-014
 Como Modelo analítico
-Quiero **consultar información sobre los indicadores**
+Quiero **consultar información sobre los indicadores y resultados de modelos de acuerdo a permisos**
 Para tener acceso a la información de los indicadores y poder realizar análisis de datos.
 
 #### RQF-015
 Como Administrador de territorio, Organización cooperante, Modelo analítico
-Quiero **gestionar diagnósticos y predicciones**
+Quiero **gestionar diagnósticos y predicciones de acuerdo a permisos**
 Para tener un control sobre los diagnósticos generados por el modelo analítico y poder realizar un seguimiento a las predicciones.
 
 #### RQF-016
 Como Administrador de territorio, Organización cooperante, Modelo analítico
-Quiero **gestionar prescripciones y recomendaciones**
+Quiero **gestionar prescripciones y recomendaciones de acuerdo a permisos**
 Para tener un control sobre las prescripciones ajustadas a cada diagnóstico y poder realizar un seguimiento a las recomendaciones.
 
 #### RQF-017
 Como Administrador de territorio, Organización cooperante
-Quiero **consultar historias de beneficiarios**
+Quiero **consultar historias de vida de acuerdo a permisos**
 Para contar con un registro detallado sobre cada beneficiario, que incluya información personal, así como contexto ambiental, emocional, social y económico. 
 
 ## (MOD-003) Interoperabilidad
@@ -132,7 +132,7 @@ Para planificar y coordinar las actividades necesarias para la entrega de ayuda 
 
 #### RQF-019
 Como Organización cooperante
-Quiero **gestionar tareas dentro de cada proyecto**
+Quiero **gestionar procesos especificos dentro de cada proyecto**
 Para desglosar las actividades en acciones más pequeñas y medir su progreso individualmente.
 
 #### RQF-020
@@ -142,12 +142,12 @@ Para tener una visión general de los proyectos y tareas, así como de su estado
 
 #### RQF-021
 Como Administrador de territorio, Organización cooperante
-Quiero **asignar responsables a cada tarea**
+Quiero **asignar responsables a cada proceso**
 Para asegurar que haya una persona responsable designada para llevar a cabo cada actividad dentro del proyecto.
 
 #### RQF-022
 Como Voluntario
-Quiero **medir los tiempos de ejecución de las tareas realizadas**
+Quiero **medir y categorizar los tiempos de ejecución de las tareas realizadas**
 Para tener un registro preciso del tiempo que toma completar cada actividad y así identificar posibles retrasos o ineficiencias en el proceso logístico, además de poder realizar una mejor estimación y valoración de los recursos necesarios para la ejecución de cada proyecto.
 
 #### RQF-023
@@ -157,14 +157,14 @@ Para conocer el estado actual de los proyectos logísticos humanitarios y poder 
 
 #### RQF-024
 Como Administrador de territorio, Voluntario, Organización cooperante, Organización base
-Quiero **gestionar tareas o apoyar en su ejecución**
+Quiero **gestionar subprocesos y tareas o apoyar en su ejecución**
 Para tener un registro de las tareas que he realizado y su estado actual.
 
 ## (MOD-004) Gestion del sistema
 
 #### RQF-025
 Como Administrador de territorio
-Quiero **gestionar usuario para organizaciones, entidades e individuos**
+Quiero **gestionar usuario para los actores del sistema**
 Para fomentar la colaboración entre distintas entidades involucradas en la entrega de ayuda humanitaria, facilitando el intercambio fluido de datos e información relevante operando con la misma base de información.
 
 #### RQF-026

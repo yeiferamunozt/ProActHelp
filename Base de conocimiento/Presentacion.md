@@ -1,0 +1,9 @@
+Señoras y señores, distinguidos miembros del comité y profesores presentes, tengo el honor de introducir nuestro proyecto de grado de ingeniería de sistemas. Hoy, nos centramos en un tema crucial para la sociedad contemporánea: la eficacia de la logística humanitaria y su impacto en la consecución de objetivos de desarrollo sostenible fundamentales, específicamente el ODS 12, que se refiere a la Producción y Consumo Responsables, y el ODS 2, que busca alcanzar el Hambre Cero.
+
+El corazón de nuestra investigación radica en el diseño y prototipado de un sistema de información innovador que apunta a optimizar los procesos involucrados en la logística humanitaria. Esta optimización no solo persigue una distribución más eficiente de los suministros críticos, sino que tiene como objetivo fundamental mejorar la calidad de vida de las comunidades afectadas por emergencias, desastres naturales o condiciones de extrema pobreza.
+
+Este proyecto representa una colaboración entre la fundación empresarial Fuente de Vida y la Universidad Jorge Tadeo Lozano. Encarnando las virtudes de nuestro programa de ingeniería de sistemas, buscamos no solo proveer una solución técnica, sino también forjar un camino hacia la inclusión social, el empoderamiento regional y un desarrollo sostenible y duradero.
+
+A lo largo de esta presentación, subrayaremos cómo la aplicación estratégica del diseño de software y la adopción de tecnologías de la información pueden ser transformadoras en el terreno de la logística humanitaria. Les presentaremos nuestro enfoque fundado en la metodología ágil Scrum y el paradigma de Design Thinking, facilitadores clave en nuestra búsqueda de una solución centrada tanto en el ser humano como en la eficiencia.
+
+Con esto, quedan inauguradas nuestras deliberaciones. Aguardamos con interés sus perspectivas, análisis y recomendaciones mientras nos embarcamos juntos en este viaje para marcar una diferencia tangible en el mundo. Muchas gracias.
